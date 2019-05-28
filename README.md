@@ -1,2 +1,2 @@
 # AoC_2015
-Repo for Advent of Code 2015
+Solutions for AoC_2015
